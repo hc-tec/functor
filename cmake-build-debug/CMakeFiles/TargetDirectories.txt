@@ -1,0 +1,3 @@
+/media/titto/新加卷/CProject/template-learn/functor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/titto/新加卷/CProject/template-learn/functor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/titto/新加卷/CProject/template-learn/functor/cmake-build-debug/CMakeFiles/functor.dir
